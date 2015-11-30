@@ -1,0 +1,55 @@
+
+.center {
+	margin: auto;
+	width: 800px;
+	background-color: #e5e5e5;
+	text-align: center;
+}
+
+#p1icon {
+	width: 100px;
+	height: 100px;
+}
+
+#burnbar {
+	width: 550px;
+	height: 100px;
+}
+
+#p2icon {
+	width: 100px;
+	height: 100px;
+}
+
+#p1 {
+	width: 200px;
+	height: auto;
+}
+
+#shouttext {	
+	font-size: 20px;
+	text-transform: uppercase;
+	font-family: Consolas;
+	word-wrap: break-word;
+}
+
+#p2 {
+	width: 200px;
+	height: auto;
+}
+
+textarea {
+	resize: none;
+}
+
+#inputbutton {
+	font-family: Lucida Console;
+	font-size: 25px;
+	margin: auto;
+	color: white;
+	background-color: #404040;
+	width: 160px;
+	height: 80px;
+	cursor: pointer;
+}
+
